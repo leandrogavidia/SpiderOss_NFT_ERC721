@@ -15,4 +15,6 @@ Smart contract for the creation of a non-fungible token, ERC721(NFT).
 
 ## "Mint" of the token: https://ropsten.etherscan.io/tx/0xe840db392ae9c2d70a2f042e3fd3c98392b8c74b88c41bd8d9c323bedf6a2f2c
 
+## Tutorial in PDF: https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing
+
 # <img src="https://raw.githubusercontent.com/LeanderGS/SpiderOss_NFT_ERC721/main/assets/Spider%20OSS.png"></img>
